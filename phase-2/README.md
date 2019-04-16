@@ -7,8 +7,7 @@ For bonus points you could develop an endpoint that receives any lat long and re
 
 ## Testing-coverage
 
-<img src="indie-campers-docs/testing.jpg" alt="testing" width="100%" />
-![testing](indie-campers-docs/testing.jpg)
+![testing](./indie-campers-docs/testing.png)
 
 ## Technologies used
 
