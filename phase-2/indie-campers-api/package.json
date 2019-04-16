@@ -1,0 +1,24 @@
+{
+  "name": "indie-campers-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "watch": "nodemon src",
+    "debug": "node debug src",
+    "test": "mocha src/**/*.spec.js --timeout 99999 ",
+    "test-debug": "mocha debug src/**/*.spec.js --timeout 999999",
+    "test-coverage": "nyc --reporter=html --reporter=text mocha src/**/*.spec.js --timeout 99999"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect": "^24.7.1",
+    "express": "^4.16.4",
+    "indie-campers-data": "file:../indie-campers-data",
+    "mongoose": "^5.5.1",
+    "nodemon": "^1.18.11"
+  }
+}
