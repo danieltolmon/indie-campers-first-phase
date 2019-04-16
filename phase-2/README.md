@@ -9,7 +9,7 @@ For bonus points you could develop an endpoint that receives any lat long and re
 
 ![testing](./indie-campers-docs/testing.jpg)
 
-## Tecnologies used
+## Technologies used
 
 
 <div>
